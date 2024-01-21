@@ -1,0 +1,4 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger
+101,1,2022-01-15,Delhi,2,3000.00
+102,2,2022-02-20,Mumbai,3,2500.00
+103,3,2022-03-25,Bangalore,1,5000.00
